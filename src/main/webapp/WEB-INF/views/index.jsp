@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-    <h2>Hello Spring Framework!!!!!</h2>
+    <h2>Hello Spring Framework!!</h2>
 </body>
 </html>
